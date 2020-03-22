@@ -1,0 +1,12 @@
+.back-to-top{
+    position: fixed;
+    bottom: 20px;
+    right: 75px;
+    cursor: pointer;
+    font-weight: bold;
+    display: none;
+}
+.back-to-top:hover,
+.back-to-top:focus{
+    color: #ff0000;
+}
